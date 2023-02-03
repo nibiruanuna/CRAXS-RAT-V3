@@ -5,7 +5,8 @@ caracteristicas
 DESGARGA:https://nibiruanuna.wixsite.com/android-rat-spy
 🟢descargar cargar
 🟢Opciones de eliminación segura
-🟢Vista en miniatura/Galería
+🟢Vista en miniatura/Galería![1](https://user-images.githubusercontent.com/122752289/216728396-6e427858-e4f0-44e5-9baa-d47be49c69fb.png)
+
 🟢Búsqueda Avanzada
 🟢copiar pegar
 🟢Descifrar/Descifrar
